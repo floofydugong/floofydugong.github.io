@@ -16,7 +16,7 @@ baseurl: ""
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-83371501-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -29,9 +29,9 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+author: "John Huynh"
+title: "{ John Huynh }"
+description: "Blog and website of John Huynh, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
@@ -102,7 +102,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "floofydugong"
 
 syntax-highlight: True
 
@@ -136,7 +136,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "John Huynh is an awesome person. He lives in San Francisco, where he works on data science projects. In his spare time, John likes to eat chipotle."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -145,15 +145,15 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/floofydugong"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/floofydugong"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/floofydugong"
+  # - title: "bitcoin"
+  #   url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  # - title: "rss"
+  #   url: "/feed.xml"
 
 ############
 # 404 page #
@@ -166,8 +166,8 @@ social:
 ##################
 
 keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+keybase-in-social: False
+keybase-in-footer: False
 
 ################################################################################
 
