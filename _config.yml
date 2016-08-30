@@ -127,7 +127,7 @@ events:
   - image: "/img/timeline/AccentureMinimal.png"
     date: "June 2012 - March 2014"
     description: "Graduated from VT with a BS in BIT"
-  - image: "/img/timeline/VTMinimal.png"
+  - image: "/img/timeline/VTMinimal.jpg"
     date: "May 2012"
     description: "Performance And Metrics Specialist at College Board"
   - image: "/img/timeline/CollegeBoardMinimal.jpeg"
