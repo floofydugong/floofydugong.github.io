@@ -32,7 +32,7 @@ For a someone who doesn't enjoy overloading his phone/laptop with useless applic
 
 That's where [Sublime Text Editor](https://www.sublimetext.com/) changed everything.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/SublimeText.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/img/SublimeText.png" alt="">
 
 I've always been a long time user, but recently just paid the $70 for a fully licensed editor. Honestly, there's nothing different between the free/paid version, except for the fact that you don't get a pop-up every so often. But the reason why I chose to finally pay for it was because I realized how much I've been using it. In fact, **I'm using it right not to write/commit this blog post (yes! you can do that all from within Sublime with the right workflow! 😉**   If you haven't had a chance yet, check out a few of the awesome functions that Sublime Text can do at [their website](https://www.sublimetext.com/). My favorite is probably the multi-line editing. That seriously changed my workflow life forever. If you don't know that is, just Google it and you'll thank me later.
 
