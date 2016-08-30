@@ -88,7 +88,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 95
+post-preview-words: 45
 
 paginate: 5
 
