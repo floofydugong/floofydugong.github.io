@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "http://d9nqqwcssctr8.cloudfront.net/wp-content/uploads/2015/09/25032254/PHOTO-6.jpg"
+background-img: "http://d9nqqwcssctr8.cloudfront.net/wp-content/uploads/2015/09/25032416/art-behind-open-heaven-river-wild-hillsong-collected.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -90,7 +90,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: False
 
-post-preview-words: 45
+post-preview-words: 80
 
 paginate: 5
 
