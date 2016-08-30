@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Workflow Tips and Tricks
 category: Tech
-tags: [ 'Workflow', 'Sublime', 'Terminal' ]
+tags: [ 'Workflow', 'Sublime', 'Terminal', 'Python']
 ---
 
 Each student at Metis is required to investigate and share about two topics relating to the field of data science. These **"investigations"** gives us the opportunity to not only share what we enjoy learning about, but also gives us the chance to practice our oral presentation skills.

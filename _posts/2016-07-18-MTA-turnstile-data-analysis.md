@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: MTA Turnstile Data Analysis
 category: Projects
-tags: [ 'Project', 'Tech', 'Python', 'Metis', 'Bootcamp' ]
+tags: ['Project', 'Tech', 'Python', 'Metis', 'Bootcamp']
 ---
 
 I'm going to switch gears a bit and post about my experience during my first week at Metis. I'll also be writing a technical analysis of my first major project (codenamed **Benson**) that was submitted in week one. I'll probably do more of a Q&A sort of post in the future that dives deeper into what a week realy feels like at Metis. But for this post, I'll keep the weekly summary brief and write more regarding Benson.

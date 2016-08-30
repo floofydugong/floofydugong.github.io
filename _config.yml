@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "http://d9nqqwcssctr8.cloudfront.net/wp-content/uploads/2015/09/25032159/PHOTO-3.jpg"
 
 ##############################
 # Dynamic Text on the Header #
