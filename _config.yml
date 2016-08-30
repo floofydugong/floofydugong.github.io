@@ -121,19 +121,19 @@ events:
   - image: "/img/timeline/DataquestMinimal.png"
     date: "January 2016 - June 2016"
     description: "Self-studied Data Science via MOOCs"
-  - image: "/img/timeline/AccentureMinimal.jpeg"
+  - image: "/img/timeline/AccentureMinimal.png"
     date: "March 2014 - January 2016"
     description: "Employed as a Senior Database Analyst"
-  - image: "/img/timeline/AccentureMinimal.jpeg"
+  - image: "/img/timeline/AccentureMinimal.png"
     date: "June 2012 - March 2014"
     description: "Employed as a Project Management Analyst"
-  - image: "/img/timeline/CollegeBoardMinimal.jpeg"
+  - image: "/img/timeline/CollegeBoardMinimal.png"
     date: "May 2012 - August 2016"
     description: "Interned as a Performance And Metrics Specialist"
 
 # First image of the Timeline
 
-# timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/LaughingJohn.png"
 
 ###########
 # Contact #
