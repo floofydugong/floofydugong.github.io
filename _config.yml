@@ -120,7 +120,7 @@ events:
     description: "Attending Metis"
   - image: "/img/timeline/DataquestMinimal.png"
     date: "January 2016 - June 2016"
-    description: "Self-studied Data Science via MOOCs"
+    description: "Studied Data Science via MOOCs"
   - image: "/img/timeline/AccentureMinimal.png"
     date: "March 2014 - January 2016"
     description: "Senior Database Analyst at Accenture"
