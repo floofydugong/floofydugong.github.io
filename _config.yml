@@ -127,13 +127,16 @@ events:
   - image: "/img/timeline/AccentureMinimal.png"
     date: "June 2012 - March 2014"
     description: "Project Management Analyst at Accenture"
+  - image: "/img/timeline/VTMinimal.jpeg"
+    date: "May 2012"
+    description: "Performance And Metrics Specialist at College Board"
   - image: "/img/timeline/CollegeBoardMinimal.jpeg"
-    date: "May 2012 - August 2016"
+    date: "May 2011 - August 2011"
     description: "Performance And Metrics Specialist at College Board"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/VTMinimal.jpg"
+timeline-img: "/img/timeline/LaughingJohn.png"
 
 ###########
 # Contact #
