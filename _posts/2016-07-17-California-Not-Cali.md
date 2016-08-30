@@ -1,6 +1,11 @@
 ---
-published: true
+layout: post
+section-type: post
+title: California Not Cali!
+category: Life
+tags: [ 'lifestyle', 'California', 'SF' ]
 ---
+
 As a part of the course work, Metis requires that students blog at least three times before graduating. I'll be honest. I've never been the type to blog or journal. While packing for my move from Virginia to California, I found my personal journal which had less then a dozen entries. :confused: Hopefully, I'm a lot more committed (and better at writing) now than I was before. :wink:
 
 My goal is to not only write posts regarding technical subjects, but also to write some offbeat material including highglights from my experiences living in San Francisco and also fields that I'm interested in, such as eSports analytics. For those of you who are looking for more resources on data science, I also plan on organizing and sharing all my resources/material that I've collected along the way on my journey to becoming a better data scientist.
