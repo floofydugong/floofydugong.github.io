@@ -48,7 +48,7 @@ background-img: "http://d9nqqwcssctr8.cloudfront.net/wp-content/uploads/2015/09/
 ##############################
 
 dynamic-typing: True
-shuffle: True # Shuffle the lines.
+shuffle: False # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
@@ -57,6 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   # - text: "Going Floofy"
   # - text: "Going KuHero"
+  - text: "John Huynh"
   - text: "Data Alchemist"
   - text: "Tech Enthusiast"
   - text: "Chipotle Lover"
