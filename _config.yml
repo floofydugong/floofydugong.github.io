@@ -48,15 +48,16 @@ background-img: "../img/intro-bg.jpg"
 ##############################
 
 dynamic-typing: True
-shuffle: True # Shuffle the lines.
-loop: True
+shuffle: False # Shuffle the lines.
+loop: False
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Going Floofy"
+  - text: "Going Hero"
+  - text: "Going Hayw1re"
 
 me-img: "/img/profile_pic.png"
 
@@ -165,7 +166,7 @@ social:
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: floofydugong
 keybase-in-social: False
 keybase-in-footer: False
 
