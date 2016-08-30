@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "John Huynh"
-title: "{ John Huynh }"
+title: "Going Hayw1re"
 description: "Blog and website of John Huynh. Opinions expressed are mine."
 keywords: "personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -57,7 +57,9 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   # - text: "Going Floofy"
   # - text: "Going KuHero"
-  - text: "Going Hayw1re"
+  - text: "Data Alchemist"
+  - text: "Tech Enthusiast"
+  - text: "Chipotle Lover"
 
 me-img: "/img/profile_pic.png"
 
