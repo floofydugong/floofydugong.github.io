@@ -130,13 +130,13 @@ events:
   - image: "/img/timeline/VTMinimal.jpg"
     date: "May 2012"
     description: "Graduated from VT with a BS in BIT"
-  - image: "/img/timeline/CollegeBoardMinimal.jpeg"
+  - image: "/img/timeline/CollegeBoardMinimal.jpg"
     date: "May 2011 - August 2011"
     description: "Performance And Metrics Specialist at College Board"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/LaughingJohn.png"
+timeline-img: "/img/timeline/BabyJohn.jpg"
 
 ###########
 # Contact #
