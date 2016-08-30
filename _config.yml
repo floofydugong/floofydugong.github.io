@@ -116,7 +116,7 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/MetisMinimal.png"
-    date: "July 2016 - Tody"
+    date: "July 2016 - Today"
     description: "Attending Metis"
   - image: "/img/timeline/DataquestMinimal.png"
     date: "January 2016 - June 2016"
