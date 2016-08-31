@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Floofy What?
-category: Lifestyle
+category: Life
 tags: [ 'Humor', 'Fun', 'Nicknames', 'Floofy', 'Hayw1re' ]
 ---
 
