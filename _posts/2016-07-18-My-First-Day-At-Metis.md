@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: MTA Turnstile Data Analysis
+title: My First Day at Metis
 category: Projects
 tags: [ 'Tech', 'Python', 'Metis', 'Bootcamp', 'Git', 'Prework']
 ---
