@@ -38,7 +38,7 @@ Since the data needed cleaning, I was tasked with not only munging/cleaning it b
 
 From there, my teammates and I wrote additional code to handle edge cases and also worked together to plot the data using seaborn and matplotlib.
 
-_Figure 3 : Imports we used and some code regarding the calculations._ [To view the Jupyter notebook, click here](http://nbviewer.jupyter.org/github/floofydugong/benson-five/blob/master/Benson_Team5_Analysis.ipynb# "Notebook of Team 5's Benson Project")
+_Figure 3 : Imports we used and some code regarding the calculations._ [To view the Jupyter notebook, click here](https://github.com/floofydugong/Metis_Projects/blob/master/Project_Benson/Benson_Team5_Analysis.ipynb "Notebook of Team 5's Benson Project")
 
 
 ```python
