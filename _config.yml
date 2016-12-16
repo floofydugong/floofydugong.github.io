@@ -58,9 +58,7 @@ lines: # You can add HTML Tags in the Text
   # - text: "Going Floofy"
   # - text: "Going KuHero"
   - text: "John Huynh"
-  - text: "Data Alchemist"
-  - text: "Tech Enthusiast"
-  - text: "Chipotle Lover"
+  - text: "Data Scientist"
 
 me-img: "/img/profile_pic.png"
 
